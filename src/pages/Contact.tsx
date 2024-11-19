@@ -30,7 +30,7 @@ const Contact: React.FC = () => {
           <div className="bg-white p-2 rounded-full text-blue-500">
             <i className="fas fa-phone-alt"></i> {/* FontAwesome icon */}
           </div>
-          <a href="tel:+628989878274" className="text-sm sm:text-base text-blue-500 hover:underline">
+          <a href="https://wa.me/+628989878274" className="text-sm sm:text-base text-blue-500 hover:underline">
             +62 898-9878-274
           </a>
         </div>
